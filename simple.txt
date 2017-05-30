@@ -3,3 +3,4 @@ test2
 test3
 new branch01
 later edit master branch
+make conflict
